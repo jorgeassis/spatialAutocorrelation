@@ -2,9 +2,7 @@
 
 R Pipelines to reduce the spatial autocorrelation in Species Distribution Models.
 
-Spatial autocorrelation (SA) is a common challenge in Species Distribution Models, which may result in inappropriate spatial inference and prediction. 
-
-Here I propose a straightforward approach to reduce the effect of SA in SDM. I use a simple example focused on a brown algae species capable of producing marine forests and a set of environmental predictors known to largely explain its distribution.
+Spatial autocorrelation (SA) is a common challenge in Species Distribution Models, which may result in inappropriate spatial inference and prediction. I share a pipeline in R to reduce its effect. I use a simple example focused on a brown algae species capable of producing marine forests and a set of environmental predictors known to largely explain its distribution.
 
 ### Dependences
 

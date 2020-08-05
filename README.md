@@ -1,6 +1,6 @@
 ## Spatial Autocorrelation
 
-R Pipelines to reduce the spatial autocorrelation in Species Distribution Models
+R Pipelines to reduce the spatial autocorrelation in Species Distribution Models.
 
 ### Dependences
 

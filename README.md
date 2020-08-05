@@ -2,13 +2,6 @@
 
 R Pipelines to reduce the spatial autocorrelation in Species Distribution Models
 
-theMarineDataScientist <br>
-github.com/jorgeassis <br>
-medium.com/themarinedatascientist <br>
-medium.com/@jorgemfa <br>
-
-<br><br>
-
 ### Dependences
 
 library(raster) <br>

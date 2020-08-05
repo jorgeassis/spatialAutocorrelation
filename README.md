@@ -1,4 +1,4 @@
-# Spatial Autocorrelation V1.0
+## Spatial Autocorrelation V1.0
 
 R Pipelines to reduce the spatial autocorrelation in Species Distribution Models
 

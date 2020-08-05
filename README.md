@@ -1,21 +1,21 @@
-## Spatial Autocorrelation V1.0
+## Spatial Autocorrelation
 
 R Pipelines to reduce the spatial autocorrelation in Species Distribution Models
 
-theMarineDataScientist
-github.com/jorgeassis
-medium.com/themarinedatascientist
-medium.com/@jorgemfa
+theMarineDataScientist <br>
+github.com/jorgeassis <br>
+medium.com/themarinedatascientist <br>
+medium.com/@jorgemfa <br>
 
 <br><br>
 
 ### Dependences
 
-library(raster)
-library(ggplot2)
-library(sdmpredictors)
-library(ecodist)
-library(sp)
+library(raster) <br>
+library(ggplot2) <br>
+library(sdmpredictors) <br>
+library(ecodist) <br>
+library(sp) <br>
 library(spThin)
 
 ## Authors
